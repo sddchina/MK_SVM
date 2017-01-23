@@ -4,6 +4,7 @@ To run the code, unzip code.zip and open Matlab and type "run_s" in command wind
 If you have any questions, please contact Minghui Wang (mhwang@ustc.edu.cn) or Binghua Wang (wbh1025@mail.ustc.edu.cn).
 
 %% Example
-> run_s  %% prediction  on S sites
-> run_t  %% prediction  on T sites
-> run_y  %% prediction  on Y sites
+cd matlab
+> run_s.m  %% prediction  on S sites
+> run_t.m  %% prediction  on T sites
+> run_y.m  %% prediction  on Y sites
